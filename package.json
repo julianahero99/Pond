@@ -1,0 +1,27 @@
+{
+    "name": "testeone",
+    "version": "1.0.0",
+    "description": "teste em cypress",
+    "main": "teste.js",
+    "scripts": {
+        "test": "qa",
+        "open": "cypress open"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/julianahero99/testeqacypressone.git"
+    },
+    "keywords": [
+        "qa"
+    ],
+    "author": "juliana carvalho",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/julianahero99/testeqacypressone/issues"
+    },
+    "homepage": "https://github.com/julianahero99/testeqacypressone#readme",
+    "devDependencies": {
+        "cypress": "^9.5.4",
+        "cypress-file-upload": "^5.0.8"
+    }
+}
